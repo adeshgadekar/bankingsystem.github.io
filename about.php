@@ -68,9 +68,9 @@
         <div class="card">
           <img class="card-img-top" src="img/girll.jpeg" alt="Card image">
               <div class="card-body">
-                <h4 class="card-title"> Vaishnavi Salve</h4>
+                <h4 class="card-title"> Adesh Gadekar</h4>
                 <p class="card-text"> web developement intern at spark foundation.</p>
-                <a href="https://www.linkedin.com/in/vaishnavi-salve-847389200 " class="btn btn-primary" target=_blank>See Profile</a>
+                <a href="https://www.linkedin.com/in/Adesh-gadekar-847389200 " class="btn btn-primary" target=_blank>See Profile</a>
               </div>  
         </div>
       </div>
@@ -96,6 +96,6 @@
   <br>
   <!-- footer -->
   <footer class="text-center mt-4 py-2">
-        <p>&copy 2021. Made by <b>Vaishnavi Salve</b><br>GRIP TheSparksFoundation.</p>
+        <p>&copy 2021. Made by <b>Adesh Gadekar</b><br>GRIP TheSparksFoundation.</p>
     </footer>
 
